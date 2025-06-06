@@ -11,7 +11,7 @@ let s1;
 let input;
 let u;
 //function to calculate the ingredients based on the number of cups of tea to be made
-function chaibora(u) {
+function calculateChaiIngredients(u) {
   m1 = m * u;
   t1 = t * u;
   s1 = s * u;
@@ -22,7 +22,7 @@ function chaibora(u) {
 input = prompt("Enter the number of cups of tea you want to make:");
 u = parseInt(input);
 //output
-chaibora(u);
+calculateChaiIngredients(u);
 console.log(`To make ${u} cups of tea, you need:`);
 console.log(`${w1} ml of water`);
 console.log(`${m1} ml of milk`);
