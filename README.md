@@ -44,7 +44,7 @@ Prints the results to the console.
 
 ## 🙋🏾‍♂️ Author
 
-**Creekson Joseph**  
+**Joseph Charana**  
 Student @ Moringa School | Aspiring Software Engineer  
 GitHub: [@creeksonJoseph](https://github.com/creeksonJoseph)
 
