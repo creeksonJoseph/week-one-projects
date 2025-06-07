@@ -53,6 +53,6 @@ GitHub: [@creeksonJoseph](https://github.com/creeksonJoseph)
 ## 📄 License
 
 This project is open for learning and sharing 🧠  
-**MIT License** — feel free to fork and vibe with it!
+**GPL-2.0 license** — feel free to fork and vibe with it!
 
 ---
